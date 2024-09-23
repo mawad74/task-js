@@ -1,0 +1,17 @@
+/*   font-family: "Noto Kufi Arabic", sans-serif;  */
+
+body{
+    background-color: #f5f7ffd9;
+}
+
+.header-home{
+    margin-top: 100px;
+}
+
+.container-welcome{
+    width: 500px;
+}
+
+.error2{
+    transition: all 1s ease;
+}
